@@ -1,9 +1,39 @@
-*{
+* {
     padding: 0;
     margin: 0;
 }
 
-body{
-    background: red;
-    color:white;
+.helal {
+    width: 1200px;
+    height: 500px;
+     
+    margin: auto;
+    overflow: hidden;
 }
+
+.dhaka {
+    width: auto;
+    height: 250px;
+    
+    margin-left: -3.33%;
+     
+}
+.son{
+    width: 30%;
+    height: auto;
+   
+    float: left;
+    margin-left: 3.33%;
+}
+    img{
+        max-width: 100%;
+    }
+    .bangladesh{
+        background:yellow;
+    }
+       
+
+         
+    
+        
+    
